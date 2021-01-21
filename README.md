@@ -10,3 +10,4 @@ Short name description:kiss:
 ## Development
 
 - `CI` (Continuous Integration)持续集成
+- `WSGI` (Web Server Gateway Interface)
