@@ -8,3 +8,4 @@ Short name description:kiss:
 - `WSGI` (Web Server Gateway Interface)
 - `PEP` Python Enhancement Proposal
 - `PPG` 光电容积脉搏波描记法（PhotoPlethysmoGraphy）
+- `IFS` internal field separator
