@@ -12,3 +12,4 @@ Short name description:kiss:
 - `RDBMS` 关系数据库管理系统（Relational Database Management System：RDBMS）
 - `BIOS` （Basic Input and Output System）
 - `JSON` （JavaScript Object Notation, /ˈdʒeɪsən/）
+- `LRU` （Least Recently Used）
