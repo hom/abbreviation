@@ -10,3 +10,4 @@ Short name description:kiss:
 - `PPG` 光电容积脉搏波描记法（PhotoPlethysmoGraphy）
 - `IFS` internal field separator
 - `RDBMS` 关系数据库管理系统（Relational Database Management System：RDBMS）
+- `BIOS` (Basic Input and Output System)
