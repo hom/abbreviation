@@ -13,3 +13,4 @@ Short name description:kiss:
 - `BIOS` （Basic Input and Output System）
 - `JSON` （JavaScript Object Notation, /ˈdʒeɪsən/）
 - `LRU` （Least Recently Used）
+- `OTA` 空中下载技术（Over-the-Air Technology; OTA）
